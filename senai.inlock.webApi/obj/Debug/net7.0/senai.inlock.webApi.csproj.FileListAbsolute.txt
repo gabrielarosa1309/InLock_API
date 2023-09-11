@@ -1,0 +1,7 @@
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\50579698890\Desktop\InLock_API\senai.inlock.webApi\obj\Debug\net7.0\senai.inlock.webApi.MvcApplicationPartsAssemblyInfo.cache
