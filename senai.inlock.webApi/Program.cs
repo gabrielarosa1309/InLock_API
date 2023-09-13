@@ -2,11 +2,14 @@
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
+using Newtonsoft.Json;
 
 var builder = WebApplication.CreateBuilder(args);
 
 //Adiciona o serviço de Controllers
-builder.Services.AddControllers();
+builder.Services
+    .AddControllers();
+    .AddNewtonsoft.Json
 
 //Adiciona Serviço de Jwt Bearer (forma de autenticação)
 builder.Services.AddAuthentication(Options =>
