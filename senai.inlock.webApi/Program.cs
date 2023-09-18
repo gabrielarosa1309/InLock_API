@@ -2,7 +2,6 @@
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
-using Newtonsoft.Json;
 
 var builder = WebApplication.CreateBuilder(args);
 

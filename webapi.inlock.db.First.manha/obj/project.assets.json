@@ -3490,11 +3490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\webapi.inlock.db.First.manha\\webapi.inlock.db.First.manha.csproj",
+      "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\InLock_API\\webapi.inlock.db.First.manha\\webapi.inlock.db.First.manha.csproj",
       "projectName": "webapi.inlock.db.First.manha",
-      "projectPath": "C:\\Users\\50579698890\\Desktop\\webapi.inlock.db.First.manha\\webapi.inlock.db.First.manha.csproj",
+      "projectPath": "C:\\Users\\50579698890\\Desktop\\InLock_API\\webapi.inlock.db.First.manha\\webapi.inlock.db.First.manha.csproj",
       "packagesPath": "C:\\Users\\50579698890\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50579698890\\Desktop\\webapi.inlock.db.First.manha\\obj\\",
+      "outputPath": "C:\\Users\\50579698890\\Desktop\\InLock_API\\webapi.inlock.db.First.manha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50579698890\\AppData\\Roaming\\NuGet\\NuGet.Config",
